@@ -195,7 +195,7 @@ nav ul {
   align-items: center;
   margin: 0% 0%;
   padding-top: 10px;
-  border-top: 1px solid rgb(202, 202, 202);
+  border-top: 1px solid #d7d7d7;
   text-align: center;
 }
 
@@ -210,6 +210,10 @@ nav li {
 nav li a {
   text-decoration: none;
   color: #e2574c;
+}
+
+nav li a:hover {
+    color: #b64036;
 }
 
 .hero-image-subtitle, h3 {
@@ -558,8 +562,9 @@ a[href="mailto:info@alohaapparel.com"] {
   color: #fff;
 }
 a[href="mailto:info@alohaapparel.com"]:hover {
-    color: #e2574c;
+    color: #b64036;
 }
+
 a:hover {
   color: #dfdda9;
 }
@@ -588,7 +593,7 @@ a:hover {
 }
 
 .icons li:hover {
-  color: #e2574c;
+  color: #b64036;
   transition: color .2s ease .2s;
 }
 

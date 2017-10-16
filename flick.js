@@ -2,5 +2,5 @@ $('.main-carousel').flickity({
     // options
     cellAlign: 'center',
     contain: true,
-    autoPlay: !0
+    autoPlay: 1500
   });

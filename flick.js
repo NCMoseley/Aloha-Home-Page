@@ -1,5 +1,6 @@
 $('.main-carousel').flickity({
     // options
     cellAlign: 'center',
-    contain: true
+    contain: true,
+    autoPlay: !0
   });

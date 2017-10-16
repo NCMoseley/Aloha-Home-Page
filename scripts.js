@@ -8,16 +8,22 @@ $(function() {
         }, 1000);
     });
 
-   $("#button").click(function() {
-
-    var y = $("#email").val();
-
-    if (y.includes("@")) {
-
-        alert ("Thanks for Subscribing " + y + "!");
-    }
-       else alert (" Enter a valid email fool!");
    
-});
+    $("#button").on('click', function(event) {
+        event.preventDefault();
+        console.log("working?")
+        var email = $('input').val();
+            var filter = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+            event.preventDefault();
+            console.log('User submitted the email address ' + email);
+    
+            if (filter.test(email)) {
+          alert('Thank you for subscribing, ' + email + '!');
+        
+            } else {
+                alert('Please enter a valid E-Mail address.');
+            }
+    
+    });
 
 });

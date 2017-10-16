@@ -3,6 +3,8 @@
 .DS_Store?
 ._*
 Icon?
+Icon
+.vscode/
 .Spotlight-V100
 .Trashes
 ehthumbs.db

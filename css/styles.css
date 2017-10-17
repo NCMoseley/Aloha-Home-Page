@@ -638,8 +638,8 @@ h2 {
           flex-direction: row;
   margin-bottom: 50px;
   height: 500px;
-  margin-left: 25px;
-  margin-right: 25px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .carousel-cell {
@@ -945,7 +945,7 @@ nav ul {
 
   .carousel-cell {
     text-align: center;
-    width: 25%;
+    width: 50%;
   }
 
   footer {
@@ -1031,7 +1031,9 @@ nav ul {
 .carousel-cell {
   text-align: center;
   width: 50%;
+
   }
+
 }
 header {
     display: -webkit-box;

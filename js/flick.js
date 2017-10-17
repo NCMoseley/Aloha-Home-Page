@@ -4,5 +4,6 @@ $('.main-carousel').flickity({
     contain: true,
     freeScroll: true,
     wrapAround: true,
-    autoPlay: 1500
+    autoPlay: 1500,
+    resize: true
   });

@@ -5,6 +5,7 @@
 Icon?
 Icon
 .vscode/
+
 .Spotlight-V100
 .Trashes
 ehthumbs.db
@@ -12,3 +13,4 @@ ehthumbs.db
 *.Trashes
 # Ignore npm packages
 node_modules/
+marks/

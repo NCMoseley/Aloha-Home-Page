@@ -285,8 +285,8 @@ h2 {
           align-items: center;
   height: 450px;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), 
-  url(images/banner-girl.png), 
-  url(images/flower-bkgd.jpg);
+  url(./images/banner-girl.png), 
+  url(./images/flower-bkgd.jpg);
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
   url(images/banner-girl.png), 
   url(images/flower-bkgd.jpg);

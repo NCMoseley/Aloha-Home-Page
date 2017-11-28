@@ -159,6 +159,9 @@ body {
   color: #2d2d2d;
   font-family: 'ralewaymedium';
 }
+.screen-reader-text{
+  color: white;
+}
 
 header {
   display: -webkit-box;

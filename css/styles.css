@@ -285,17 +285,17 @@ h2 {
           align-items: center;
   height: 450px;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), 
-  url(./images/banner-girl.png), 
-  url(./images/flower-bkgd.jpg);
+  url(../images/banner-girl.png), 
+  url(../images/flower-bkgd.jpg);
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-  url(images/banner-girl.png), 
-  url(images/flower-bkgd.jpg);
+  url(../images/banner-girl.png), 
+  url(../images/flower-bkgd.jpg);
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-  url(images/banner-girl.png), 
-  url(images/flower-bkgd.jpg);
+  url(../images/banner-girl.png), 
+  url(../images/flower-bkgd.jpg);
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-  url(images/banner-girl.png), 
-  url(images/flower-bkgd.jpg);
+  url(../images/banner-girl.png), 
+  url(../images/flower-bkgd.jpg);
   background-repeat: repeat, no-repeat, repeat-x;
   background-position: 50% 0%, 50% 2rem;
   background-size: cover, 195px 479px, cover;
@@ -420,13 +420,13 @@ h2 {
   background: -webkit-gradient(linear, 
   left top, left bottom, 
   from(rgba(0, 0, 0, 0.2)), 
-  to(rgba(0, 0, 0, 0.2))), url("images/mens-category.jpg");
+  to(rgba(0, 0, 0, 0.2))), url("../images/mens-category.jpg");
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/mens-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/mens-category.jpg");
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/mens-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/mens-category.jpg");
   background: linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/mens-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/mens-category.jpg");
   background-size: cover, cover;
 }
 
@@ -449,13 +449,13 @@ h2 {
   background: -webkit-gradient(linear, 
   left top, left bottom, 
   from(rgba(0, 0, 0, 0.2)), 
-  to(rgba(0, 0, 0, 0.2))), url("images/trends-category.jpg");
+  to(rgba(0, 0, 0, 0.2))), url("../images/trends-category.jpg");
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/trends-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/trends-category.jpg");
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/trends-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/trends-category.jpg");
   background: linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/trends-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/trends-category.jpg");
   background-size: cover, cover;
 }
 
@@ -478,13 +478,13 @@ h2 {
   background: -webkit-gradient(linear, 
   left top, left bottom, 
   from(rgba(0, 0, 0, 0.2)), 
-  to(rgba(0, 0, 0, 0.2))), url("images/glasses-category.jpg");
+  to(rgba(0, 0, 0, 0.2))), url("../images/glasses-category.jpg");
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/glasses-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/glasses-category.jpg");
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/glasses-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/glasses-category.jpg");
   background: linear-gradient(rgba(0, 0, 0, 0.2), 
-  rgba(0, 0, 0, 0.2)), url("images/glasses-category.jpg");
+  rgba(0, 0, 0, 0.2)), url("../images/glasses-category.jpg");
   background-size: cover, cover;
 }
 
@@ -508,16 +508,16 @@ h2 {
   left top, left bottom, 
   from(rgba(0, 0, 0, 0.2)), 
   to(rgba(0, 0, 0, 0.2))), 
-  url("images/sale-category.jpg");
+  url("../images/sale-category.jpg");
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/sale-category.jpg");
+  url("../images/sale-category.jpg");
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/sale-category.jpg");
+  url("../images/sale-category.jpg");
   background: linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/sale-category.jpg");
+  url("../images/sale-category.jpg");
   background-size: cover, cover;
 }
 
@@ -541,16 +541,16 @@ h2 {
   left top, left bottom, 
   from(rgba(0, 0, 0, 0.2)), 
   to(rgba(0, 0, 0, 0.2))), 
-  url("images/bags-category.jpg");
+  url("../images/bags-category.jpg");
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/bags-category.jpg");
+  url("../images/bags-category.jpg");
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/bags-category.jpg");
+  url("../images/bags-category.jpg");
   background: linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/bags-category.jpg");
+  url("../images/bags-category.jpg");
   background-size: cover, cover;
 }
 
@@ -574,16 +574,16 @@ h2 {
   left top, left bottom, 
   from(rgba(0, 0, 0, 0.2)), 
   to(rgba(0, 0, 0, 0.2))), 
-  url("images/womens-category.jpg");
+  url("../images/womens-category.jpg");
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/womens-category.jpg");
+  url("../images/womens-category.jpg");
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/womens-category.jpg");
+  url("../images/womens-category.jpg");
   background: linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/womens-category.jpg");
+  url("../images/womens-category.jpg");
   background-size: cover, cover;
 }
 
@@ -608,16 +608,16 @@ h2 {
   left top, left bottom, 
   from(rgba(0, 0, 0, 0.2)), 
   to(rgba(0, 0, 0, 0.2))), 
-  url("images/wave-bkgd.jpg");
+  url("../images/wave-bkgd.jpg");
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/wave-bkgd.jpg");
+  url("../images/wave-bkgd.jpg");
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/wave-bkgd.jpg");
+  url("../images/wave-bkgd.jpg");
   background: linear-gradient(rgba(0, 0, 0, 0.2), 
   rgba(0, 0, 0, 0.2)), 
-  url("images/wave-bkgd.jpg");
+  url("../images/wave-bkgd.jpg");
   background-repeat: no-repeat;
   background-position: 50% 93%;
   color: white;

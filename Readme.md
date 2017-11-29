@@ -1,5 +1,7 @@
 Aloha Project 1
 
+![](https://github.com/NCMoseley/Aloha-Home-Page/blob/master/apic1)
+
 This project is presented by Nathan Moseley. No rights reserved. 
 
 This Project is design with love and advanced technology including: 
@@ -10,11 +12,15 @@ CSS
 
 JQuery
 
+![](https://github.com/NCMoseley/Aloha-Home-Page/blob/master/apic2)
+
 This Homepage is optimized for viewing at 320px, 600px, and 1240px. 
 This homepage was built using Flickity to automatically scroll through the "Most Loved" section. 
 There is a custom softscroll javaScript for many of the links on the page, which allows fluid transition from top to bottom. 
 
 ===========================================================
+
+![](https://github.com/NCMoseley/Aloha-Home-Page/blob/master/apic3)
 
 Resources Borrowed: 
 
@@ -31,5 +37,5 @@ Fontawesome: http://fontawesome.io/
 
 jQuery: http://jquery.com/
 
-
+![](https://github.com/NCMoseley/Aloha-Home-Page/blob/master/apic4)
     
